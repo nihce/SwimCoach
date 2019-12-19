@@ -1,0 +1,3 @@
+plot(SaraTivoliData,'DisplayName','SaraTivoliData')
+
+plot(SaraTivoliData(1317:1933,:),'DisplayName','SaraTivoliData')
